@@ -1,5 +1,5 @@
 body {
-	background: #000500;
+	background: #f7b0c0;
 }
 
 .galeria {
@@ -8,14 +8,14 @@ body {
 
 .galeria img {
 	vertical-align: top;
-	opacity: 0.5;
-	width: 400px;
+	opacity: 0.4;
+	width: 350px;
 	margin: 20px;
 	padding: 5px;
 	border:1px solid #484848;
 }
 
 .galeria img:hover {
-	border:1px solid #fff;
+	border:1px solid #f6f6f7;
 	opacity: 1;
 }
